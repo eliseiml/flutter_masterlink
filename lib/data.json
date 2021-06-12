@@ -1,0 +1,56 @@
+{
+    "name" : "root",
+    "files" : [],
+    "folders" : [
+        {
+            "name" : "folder 1",
+            "files" : [
+                {
+                    "name" : "file 1",
+                    "ext" : "file"
+                },
+                {
+                    "name" : "file 2",
+                    "ext" : "file"
+                }
+            ],
+            "folders" : []
+        },
+        {
+            "name" : "folder 2",
+            "files" : [],
+            "folders" : [
+                {
+                    "name" : "folder 2-1",
+                    "files" : [],
+                    "folders" : []
+                },
+                {
+                    "name" : "folder 2-2",
+                    "files" : [],
+                    "folders" : [
+                        {
+                            "name" : "folder 2-2-1",
+                            "files" : [
+                                {
+                                    "name" : "file 2-2-1-1",
+                                    "ext" : "txt"
+                                },
+                                {
+                                    "name" : "file 2-2-1-2",
+                                    "ext" : "pdf"
+                                }
+                            ],
+                            "folders" : []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "folder 3",
+            "files" : [],
+            "folders" : []
+        }
+    ]
+}
